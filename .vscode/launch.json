@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "https://prod.liveshare.vsengsaas.visualstudio.com/join?609C3159B987540C312C9649FF10035E23D6",
+            "request": "launch",
+            "url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?609C3159B987540C312C9649FF10035E23D6"
+        }
+    ]
+}
