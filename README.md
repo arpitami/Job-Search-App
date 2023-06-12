@@ -1,15 +1,15 @@
-# Expo Router Example
+# Job Search App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+The Job Search App is a React Native application that allows users to search for the latest developer jobs using an API. It provides an intuitive and user-friendly interface for browsing and filtering job listings.
 
-## 🚀 How to use
+## Features
+Job Search: Users can search for developer jobs
+Job Details: Users can view detailed information about each job listing, including the company name, job description
 
-```sh
-npx create-react-native-app -t with-router
-```
+## Technologies Used
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+- React Native: A JavaScript framework for building cross-platform mobile applications.
+- API Integration: The app integrates with a job search API to fetch real-time job data.
+- Navigation: React Navigation is used to handle navigation between screens and create a smooth user experience.
+- UI/UX Design: The app employs a clean and intuitive design to enhance the user experience.
+- State Management: State components and props are utilized to manage application state and handle data flow.
